@@ -1,24 +1,31 @@
 import React from "react";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  regular,
-  brands,
-} from "@fortawesome/fontawesome-svg-core/import.macro";
+import { solid, brands } from "@fortawesome/fontawesome-svg-core/import.macro";
 
 export default function Footer() {
   return (
-    <footer>
-      <a className="icon" href="https://github.com/LuckySal">
-        <FontAwesomeIcon icon={brands("github")} />
+    <footer className="text-center">
+      <a
+        className="icon px-3"
+        href="https://github.com/LuckySal"
+        target="_blank"
+        rel="noopener noreferrer">
+        <FontAwesomeIcon icon={brands("github")} size="4x" />
       </a>
       <a
-        className="icon"
-        href="https://www.linkedin.com/in/brandon-hill-74a756154/">
-        <FontAwesomeIcon icon={brands("linkedin")} />
+        className="icon px-3"
+        href="https://www.linkedin.com/in/brandon-hill-74a756154/"
+        target="_blank"
+        rel="noopener noreferrer">
+        <FontAwesomeIcon icon={brands("linkedin")} size="4x" />
       </a>
-      <a className="icon" href="mailto:dev@luckysal.com">
-        <FontAwesomeIcon icon={regular("envelope")} />
+      <a
+        className="icon px-3"
+        href="mailto:dev@luckysal.com"
+        target="_blank"
+        rel="noopener noreferrer">
+        <FontAwesomeIcon icon={solid("envelope")} size="4x" />
       </a>
     </footer>
   );
