@@ -4,6 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 
 import logo from "../logo.svg";
+import resume from "../assets/files/resume.pdf";
 
 function Header() {
   return (
@@ -23,6 +24,9 @@ function Header() {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/about-me">About Me</Nav.Link>
             <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+            <Nav.Link href={resume} target="_blank" rel="noopener noreferrer">
+              Resume
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
