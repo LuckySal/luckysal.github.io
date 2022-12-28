@@ -12,15 +12,30 @@ main {
 
 p {
   color: lightgrey;
-  background: transparent;
   font-size: 24px;
+  padding-top: 1.5rem;
+  padding-left: 6rem;
 
-  line-height: 6rem;
+  line-height: 3rem;
   text-align: justify;
-  text-justify: auto;
-  text-indent: 6rem;
+  text-indent: 3rem;
 }
 
-img {
-  max-width: 25%;
+div.profile {
+  padding: 0;
+}
+
+img#profile {
+  padding-top: 3rem;
+}
+
+@media (max-width: 576px) {
+  p {
+    padding-top: 1rem;
+    padding-left: 0;
+    line-height: 2rem;
+  }
+  img#profile {
+    padding-top: 1rem;
+  }
 }
