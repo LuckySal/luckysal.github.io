@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.756af292.css",
-    "main.js": "/static/js/main.64ffc62f.js",
+    "main.css": "/static/css/main.796853b1.css",
+    "main.js": "/static/js/main.e523fab2.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mtgpp-screenshot.png": "/static/media/mtgpp-screenshot.4f34e0ba70ae2c0d40f5.png",
+    "static/media/outta-touch-screenshot.png": "/static/media/outta-touch-screenshot.aa5078e7d5ce337f61d9.png",
+    "static/media/pokewire-screenshot.png": "/static/media/pokewire-screenshot.acc1fbc0d77f3fe75798.png",
+    "static/media/image-1.jpg": "/static/media/image-1.4105c17167e3ad3cb6b2.jpg",
+    "static/media/image-2.jpg": "/static/media/image-2.61e0f1b74f484bec2925.jpg",
+    "static/media/image-3.jpg": "/static/media/image-3.e7ca740fd15429f33bde.jpg",
+    "static/media/resume.pdf": "/static/media/resume.adf748b7e23a80c303f2.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.756af292.css.map": "/static/css/main.756af292.css.map",
-    "main.64ffc62f.js.map": "/static/js/main.64ffc62f.js.map",
+    "main.796853b1.css.map": "/static/css/main.796853b1.css.map",
+    "main.e523fab2.js.map": "/static/js/main.e523fab2.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.756af292.css",
-    "static/js/main.64ffc62f.js"
+    "static/css/main.796853b1.css",
+    "static/js/main.e523fab2.js"
   ]
 }
