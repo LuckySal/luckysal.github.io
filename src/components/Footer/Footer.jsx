@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./Footer.css";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { solid, brands } from "@fortawesome/fontawesome-svg-core/import.macro";
 

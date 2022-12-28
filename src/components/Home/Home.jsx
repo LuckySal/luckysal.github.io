@@ -2,9 +2,11 @@ import React from "react";
 
 import Carousel from "react-bootstrap/Carousel";
 
-import Image1 from "../assets/images/image-1.jpg";
-import Image2 from "../assets/images/image-2.jpg";
-import Image3 from "../assets/images/image-3.jpg";
+import "./Home.css";
+
+import Image1 from "../../assets/images/image-1.jpg";
+import Image2 from "../../assets/images/image-2.jpg";
+import Image3 from "../../assets/images/image-3.jpg";
 
 export default function Home() {
   return (

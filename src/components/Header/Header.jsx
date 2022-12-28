@@ -1,10 +1,13 @@
 import React from "react";
+
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 
-import logo from "../logo.svg";
-import resume from "../assets/files/resume.pdf";
+import "./Header.css";
+
+import logo from "../../logo.svg";
+import resume from "../../assets/files/resume.pdf";
 
 function Header() {
   return (
