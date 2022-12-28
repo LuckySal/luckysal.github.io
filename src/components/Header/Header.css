@@ -1,3 +1,7 @@
+nav div.container {
+  padding-bottom: 0;
+}
+
 a.navbar-brand {
   font-size: 40px;
 }
