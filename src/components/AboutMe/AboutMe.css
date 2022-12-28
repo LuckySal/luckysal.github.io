@@ -1,3 +1,26 @@
+#about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
 p {
+  color: lightgrey;
+  background: transparent;
   font-size: 24px;
+
+  line-height: 6rem;
+  text-align: justify;
+  text-justify: auto;
+  text-indent: 6rem;
+}
+
+img {
+  max-width: 25%;
 }
