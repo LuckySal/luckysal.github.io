@@ -1,3 +1,7 @@
 a.navbar-brand {
   font-size: 40px;
 }
+
+a.nav-link {
+  font-size: 20px;
+}
