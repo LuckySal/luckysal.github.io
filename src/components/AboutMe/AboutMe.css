@@ -1,16 +1,4 @@
-#about-me {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-main {
-  display: flex;
-  flex-direction: row;
-}
-
-p {
+div.about-me p {
   color: lightgrey;
   font-size: 24px;
   padding-top: 1.5rem;
@@ -25,17 +13,17 @@ div.profile {
   padding: 0;
 }
 
-img#profile {
+div.about-me img {
   padding-top: 3rem;
 }
 
 @media (max-width: 576px) {
-  p {
+  div.about-me p {
     padding-top: 1rem;
     padding-left: 0;
     line-height: 2rem;
   }
-  img#profile {
+  div.about-me img {
     padding-top: 1rem;
   }
 }

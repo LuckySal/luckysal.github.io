@@ -9,3 +9,8 @@ a.navbar-brand {
 a.nav-link {
   font-size: 20px;
 }
+
+a.nav-link.active {
+  color: white !important;
+  background-color: black !important;
+}

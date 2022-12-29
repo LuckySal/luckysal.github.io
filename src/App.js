@@ -1,5 +1,6 @@
+import React, { useState } from "react";
+
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Header from "./components/Header";
 import Home from "./components/Home";
@@ -7,22 +8,35 @@ import AboutMe from "./components/AboutMe";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 
+import ErrorPage from "./components/ErrorPage";
+
 function App() {
+  const [currentPage, setCurrentPage] = useState("Home");
+
+  function renderPage() {
+    switch (currentPage) {
+      case "Home":
+        return <Home />;
+      case "About Me":
+        return <AboutMe />;
+      case "Portfolio":
+        return <Portfolio />;
+      default:
+        return <ErrorPage />;
+    }
+  }
+
+  function handlePageChange(page) {
+    setCurrentPage(page);
+  }
+
   return (
     <div className="App">
-      <Router>
-        <div>
-          <Header />
-          <div className="container">
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/about-me" element={<AboutMe />} />
-              <Route path="/portfolio" element={<Portfolio />} />
-            </Routes>
-          </div>
-          <Footer />
-        </div>
-      </Router>
+      <div>
+        <Header currentPage={currentPage} handlePageChange={handlePageChange} />
+        <div className="container">{renderPage()}</div>
+        <Footer />
+      </div>
     </div>
   );
 }

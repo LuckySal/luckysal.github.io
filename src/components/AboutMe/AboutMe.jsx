@@ -10,10 +10,10 @@ export default function AboutMe() {
   return (
     <Container id="about-me">
       <Row>
-        <Col sm={4}>
-          <Image src={Selfie} alt="Brandon Hill" fluid={true} rounded={true} id="profile"/>
+        <Col className="about-me" sm={4}>
+          <Image src={Selfie} alt="Brandon Hill" fluid={true} rounded={true}/>
         </Col>
-        <Col sm={8}>
+        <Col className="about-me" sm={8}>
           <p>
             Hello! My name is Brandon Hill. Duis sed hendrerit orci. Pellentesque at lorem sapien. Ut vitae neque vitae justo scelerisque congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam mollis risus ac pretium fermentum. Mauris ornare ultricies libero in sagittis. Nulla convallis placerat metus ac scelerisque. Nullam sollicitudin pellentesque nibh, vel imperdiet orci. In vel erat a dolor lacinia placerat vel in elit. Praesent ac nulla sit amet ligula auctor fringilla elementum sit amet mauris. Morbi accumsan rutrum sagittis. Praesent risus mauris, pretium non elit eget, lacinia sodales sem. Sed varius leo sit amet aliquam posuere. Curabitur sit amet blandit libero, a egestas nisi. Maecenas bibendum congue turpis non vestibulum.
           </p>
