@@ -1,0 +1,20 @@
+p#home-text {
+  color: #dfdfdf;
+  font-size: 48px;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: #101010;
+}
+
+@media (max-width: 576px) {
+  p#home-text {
+    font-size: 24px;
+    -webkit-text-stroke: 0.5px;
+    padding-top: 60vh;
+  }
+  .carousel-inner > .carousel-item > img {
+    position: fixed;
+    width: 130vh;
+    height: 100vh;
+    left: -0.5%;
+  }
+}
