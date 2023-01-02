@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.84a0abdc.css",
-    "main.js": "/static/js/main.9b2b7c02.js",
+    "main.css": "/static/css/main.feeccef0.css",
+    "main.js": "/static/js/main.1dac7fcc.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/mtgpp-screenshot.png": "/static/media/mtgpp-screenshot.4f34e0ba70ae2c0d40f5.png",
     "static/media/outta-touch-screenshot.png": "/static/media/outta-touch-screenshot.aa5078e7d5ce337f61d9.png",
@@ -10,15 +10,15 @@
     "static/media/image-2.jpg": "/static/media/image-2.61e0f1b74f484bec2925.jpg",
     "static/media/me.png": "/static/media/me.3d4791ac8d106e64a7de.png",
     "static/media/image-3.jpg": "/static/media/image-3.e7ca740fd15429f33bde.jpg",
-    "static/media/resume.pdf": "/static/media/resume.adf748b7e23a80c303f2.pdf",
+    "static/media/resume.pdf": "/static/media/resume.c17e2f141e84c61b7d65.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.84a0abdc.css.map": "/static/css/main.84a0abdc.css.map",
-    "main.9b2b7c02.js.map": "/static/js/main.9b2b7c02.js.map",
+    "main.feeccef0.css.map": "/static/css/main.feeccef0.css.map",
+    "main.1dac7fcc.js.map": "/static/js/main.1dac7fcc.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84a0abdc.css",
-    "static/js/main.9b2b7c02.js"
+    "static/css/main.feeccef0.css",
+    "static/js/main.1dac7fcc.js"
   ]
 }
