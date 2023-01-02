@@ -1,3 +1,9 @@
+:root {
+  --white: #ffffff;
+  --blue: #003057;
+  --gold: #b3a369;
+}
+
 #root {
   background-color: rgb(55, 55, 55);
   position: relative;
