@@ -24,7 +24,7 @@ export default function Footer() {
       </a>
       <a
         className="icon px-3"
-        href="mailto:dev@luckysal.com"
+        href="mailto:hillbp2014@gmail.com"
         target="_blank"
         rel="noopener noreferrer">
         <FontAwesomeIcon icon={solid("envelope")} size="4x" />
