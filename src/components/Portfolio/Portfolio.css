@@ -1,10 +1,10 @@
 h2.card-header {
-  color: white;
+  color: lightgray;
 }
 
 p.card-text {
   font-size: 20px;
-  color: white;
+  color: lightgray;
 }
 
 div.card {
