@@ -37,6 +37,7 @@ export default function Portfolio() {
           </Button>{" "}
         </Card.Body>
       </Card>
+      <br />
       <Card>
         <Card.Header as="h2">MTG++</Card.Header>
         <Card.Img src={MTGpp} />
@@ -58,6 +59,7 @@ export default function Portfolio() {
           </Button>{" "}
         </Card.Body>
       </Card>
+      <br />
       <Card>
         <Card.Header as="h2">OuttaTouch</Card.Header>
         <Card.Img src={OuttaTouch} />
