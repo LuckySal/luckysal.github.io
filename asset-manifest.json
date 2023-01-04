@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.feeccef0.css",
-    "main.js": "/static/js/main.1dac7fcc.js",
+    "main.css": "/static/css/main.3a367d2c.css",
+    "main.js": "/static/js/main.26c985ce.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/mtgpp-screenshot.png": "/static/media/mtgpp-screenshot.4f34e0ba70ae2c0d40f5.png",
     "static/media/outta-touch-screenshot.png": "/static/media/outta-touch-screenshot.aa5078e7d5ce337f61d9.png",
@@ -13,12 +13,12 @@
     "static/media/resume.pdf": "/static/media/resume.c17e2f141e84c61b7d65.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.feeccef0.css.map": "/static/css/main.feeccef0.css.map",
-    "main.1dac7fcc.js.map": "/static/js/main.1dac7fcc.js.map",
+    "main.3a367d2c.css.map": "/static/css/main.3a367d2c.css.map",
+    "main.26c985ce.js.map": "/static/js/main.26c985ce.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feeccef0.css",
-    "static/js/main.1dac7fcc.js"
+    "static/css/main.3a367d2c.css",
+    "static/js/main.26c985ce.js"
   ]
 }
