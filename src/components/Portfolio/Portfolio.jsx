@@ -20,7 +20,7 @@ export default function Portfolio() {
         <Card.Header as="h2">PokéWire</Card.Header>
         <Card.Img src={PokeWire} />
         <Card.Body>
-          <Card.Text>Info about PokéWire.</Card.Text>
+          <Card.Text>PokéWire is a frontend application for fans of the popular Pokémon video game franchise. It allows users to search for their favorite Pokémon characters and find in-depth information about them, such as which games they appear in and where they are located in those games.</Card.Text>
           <Button
             as="a"
             href="https://github.com/LuckySal/pokewire"
@@ -41,7 +41,7 @@ export default function Portfolio() {
         <Card.Header as="h2">MTG++</Card.Header>
         <Card.Img src={MTGpp} />
         <Card.Body>
-          <Card.Text>Info about MTG++.</Card.Text>
+          <Card.Text>MTG++ is a full-stack application built to assist fans of the popular collectible card game Magic: The Gathering. It allows users to create an account, create personal decks, add or remove individual cards from the decks, and view card details. Its main technologies are MySQL and Express.js .</Card.Text>
           <Button
             as="a"
             href="https://github.com/HammontreeWebDev/MTGpp"
@@ -62,7 +62,7 @@ export default function Portfolio() {
         <Card.Header as="h2">OuttaTouch</Card.Header>
         <Card.Img src={OuttaTouch} />
         <Card.Body>
-          <Card.Text>Info about OuttaTouch.</Card.Text>
+          <Card.Text>OuttaTouch is a minimalist group messaging application. It allows users to create and join groups, where they can send text messages to each other and get new message updates in real time. Its primary technologies are React, MongoDB, and Websocket.</Card.Text>
           <Button
             as="a"
             href="https://github.com/argounova/outta-touch"
