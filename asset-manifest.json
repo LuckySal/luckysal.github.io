@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.116679a5.css",
-    "main.js": "/static/js/main.d8b72d3c.js",
+    "main.js": "/static/js/main.fcd649d2.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/mtgpp-screenshot.png": "/static/media/mtgpp-screenshot.4f34e0ba70ae2c0d40f5.png",
     "static/media/outta-touch-screenshot.png": "/static/media/outta-touch-screenshot.aa5078e7d5ce337f61d9.png",
@@ -11,14 +11,15 @@
     "static/media/me.png": "/static/media/me.3d4791ac8d106e64a7de.png",
     "static/media/image-3.jpg": "/static/media/image-3.e7ca740fd15429f33bde.jpg",
     "static/media/resume.pdf": "/static/media/resume.c17e2f141e84c61b7d65.pdf",
+    "static/media/badge.png": "/static/media/badge.d58ea7a5676243ee5195.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.116679a5.css.map": "/static/css/main.116679a5.css.map",
-    "main.d8b72d3c.js.map": "/static/js/main.d8b72d3c.js.map",
+    "main.fcd649d2.js.map": "/static/js/main.fcd649d2.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.116679a5.css",
-    "static/js/main.d8b72d3c.js"
+    "static/js/main.fcd649d2.js"
   ]
 }
