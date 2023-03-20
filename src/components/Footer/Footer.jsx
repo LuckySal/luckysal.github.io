@@ -17,7 +17,7 @@ export default function Footer() {
       </a>
       <a
         className="icon px-3"
-        href="https://www.linkedin.com/in/brandon-hill-74a756154/"
+        href="https://www.linkedin.com/in/brandon-hill-web-dev"
         target="_blank"
         rel="noopener noreferrer">
         <FontAwesomeIcon icon={brands("linkedin")} size="4x" />
